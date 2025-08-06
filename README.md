@@ -11,17 +11,21 @@ Website có các chức năng chính với các nhóm đối tượng tham gia c
 
 <img width="606" height="285" alt="home drawio" src="https://github.com/user-attachments/assets/8351c6a0-b201-4a7b-b1d3-393e86d83349" />
 
+
 **Giao diện đặt mua sản phẩm**
 
 <img width="619" height="295" alt="datmua drawio" src="https://github.com/user-attachments/assets/16d8a816-5eb1-415a-bb23-40502e113cc7" />
+
 
 **Giao diện Quản lý đơn hàng - phía nhân viên kinh doanh**
 
 <img width="661" height="316" alt="quanlydonhang drawio" src="https://github.com/user-attachments/assets/f3ac19f1-caaa-491f-8c9d-1e2bbb27f314" />
 
+
 **Giao diện Quản lý Khảo sát và lắp đặt - phía nhân viên kỹ thuật**
 
 <img width="682" height="325" alt="quanlykythuat drawio" src="https://github.com/user-attachments/assets/407a9f04-c03e-4340-bef7-c2ed4031909c" />
+
 
 **Giao diện Quản lý thanh toán - phía khách hàng**
 
