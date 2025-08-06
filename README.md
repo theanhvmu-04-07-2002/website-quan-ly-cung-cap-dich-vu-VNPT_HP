@@ -30,5 +30,7 @@ Website có các chức năng chính với các nhóm đối tượng tham gia c
 **Giao diện Quản lý thanh toán - phía khách hàng**
 
 <img width="690" height="326" alt="thanhtoan1 drawio" src="https://github.com/user-attachments/assets/69fe2e27-ad0f-4914-8fae-8b6830b03bf2" />
+
 <img width="684" height="317" alt="thanhtoan2 drawio" src="https://github.com/user-attachments/assets/73cc79dc-aa4a-4f7d-bf32-a739fda32b3d" />
+
 <img width="712" height="335" alt="thanhtoan3 drawio" src="https://github.com/user-attachments/assets/1a2416a4-3e2e-4371-917a-1c75b51492e0" />
